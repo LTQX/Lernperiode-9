@@ -14,6 +14,15 @@ Ich werde viele neue Projekte erstellen und an den LBs arbeiten. Ich werde für 
 
 21.02.2025
 
- - [ ] 
+ - [x] Projektidee finden
+ - [x] Anleitung dafür finden
+ - [x] Plan machen 
+
+✍️ Heute habe ich Ideen gesucht für ein neues Projekt. Ich habe ein neues Projekt gestartet, undzwar einen "Collaborative Editor". Es ist spannend, jedoch schwer. Ich brauche viel unterstützung von KI. Es wird aber funktionieren, langsam aber sicher. (37 Words)
+
+
+29.02.2025
+
+ - [x] Am Projekt "Collaborative Editor" weiterarbeiten
 
 ✍️ Heute habe ich...
