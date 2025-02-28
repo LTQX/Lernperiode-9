@@ -23,6 +23,13 @@ Ich werde viele neue Projekte erstellen und an den LBs arbeiten. Ich werde für 
 
 28.02.2025
 
+ - [x] Am Projekt "Collaborative Editor" weiterarbeiten
+
+✍️ Heute habe ich an meinem Projekt weitergearbeitet. Ich habe probiert das mehrere Leute aktiv arbeiten können auf einmal, jedoch geht es noch nicht. Man sieht aber wer Online ist und man kann sich mit dem User einloggen. Heute war ein produktiver Tag und ich habe gut gearbeitet. (47 Words)
+
+
+xy.03.2025
+
  - [ ] Am Projekt "Collaborative Editor" weiterarbeiten
 
 ✍️ Heute habe ich...
