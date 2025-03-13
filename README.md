@@ -28,7 +28,13 @@ Ich werde viele neue Projekte erstellen und an den LBs arbeiten. Ich werde für 
 ✍️ Heute habe ich an meinem Projekt weitergearbeitet. Ich habe probiert das mehrere Leute aktiv arbeiten können auf einmal, jedoch geht es noch nicht. Man sieht aber wer Online ist und man kann sich mit dem User einloggen. Heute war ein produktiver Tag und ich habe gut gearbeitet. (47 Words)
 
 
-xy.03.2025
+07.03.2025
+
+ - [x] Am Projekt "Collaborative Editor" weiterarbeiten
+
+✍️ Heute habe ich an meinem Collaborative Editor weitergearbeitet. Ich habe viel Debugging gemacht und ich habe ein Problem. Es zeigt die Users, welche im Dokument online sind, jedoch seht man die bearbeitungeen von den Users nicht. Man kann reinschreiben und einen eigenen Username festlegen, aber man sieht die aktualisierungen nicht. Es war ein produktiver Tag aber nicht so erfolgreich. (59 WWords)
+
+14.03.2025
 
  - [ ] Am Projekt "Collaborative Editor" weiterarbeiten
 
