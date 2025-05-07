@@ -46,4 +46,4 @@ Ich werde viele neue Projekte erstellen und an den LBs arbeiten. Ich werde für 
  - [ ] Server Problem lösen
  - [ ] Am Projekt "Collaborative Editor" weiterarbeiten
        
-✍️ Heute habe ich...
+✍️ Heute habe ich am Collaborative Editor weitergearbeitet und habe es fertig implementiert. Das Server Porblem wurde auch gelöst, node server wurde nicht korrekt heruntergeladen.
